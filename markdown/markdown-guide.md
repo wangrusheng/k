@@ -2,7 +2,7 @@
 
 ## 什么是Markdown
 
-![image-20200516092510930](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516092510930.png)
+![image-20200516092510930](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516092510930.png)
 
 Markdown 是一种轻量级标记语言，它允许人们使用易读易写的纯文本格式编写文档，用户可以使用这些标记符号以最小的输入代价生成极富表现力的文档。 
 
@@ -38,7 +38,7 @@ Markdown 能被使用来：
 支持 MacOS 、Windows、Linux 平台，优秀的Mardown语法教程，编辑模式和阅读模式分栏显示可以帮助我们对照学习Markdown语法。  
 官网:https://www.zybuluo.com/
 
-![image-20200516120057269](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516120057269.png)
+![image-20200516120057269](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516120057269.png)
 
 # Markdown简明教程[2]基础语法
 
@@ -56,7 +56,7 @@ Markdown 能被使用来：
 ```
 显示效果:
 
-![image-20200516130017041](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516130017041.png)
+![image-20200516130017041](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516130017041.png)
 
 ## 2. 斜体和粗体
 
@@ -106,7 +106,7 @@ Markdown 能被使用来：
 
 显示效果：
 
-![md5](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/md5.gif)
+![md5](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/md5.gif)
 
 ## 6.外链接
 
@@ -199,12 +199,12 @@ $(document).ready(function () {
 使用 \!\[描述](图片链接地址) 插入图像。
 
 ```markdown
-![image-20200516092510930](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516092510930.png)
+![image-20200516092510930](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516092510930.png)
 ```
 
 显示效果
 
-![image-20200516092510930](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516092510930.png)
+![image-20200516092510930](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516092510930.png)
 
 ## 13.表格
 Markdown 制作表格使用 **|** 来分隔不同的单元格，使用 **-** 来分隔表头和其他行，使用**:**表示对齐方向。
@@ -287,7 +287,7 @@ html<br>换行
 
 显示效果：
 
-![image-20200516145226986](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516145226986.png)
+![image-20200516145226986](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516145226986.png)
 
 ### 4.待办事宜
 
@@ -304,7 +304,7 @@ html<br>换行
 
 显示效果：
 
-![image-20200516191244122](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516191244122.png)
+![image-20200516191244122](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516191244122.png)
 
 ## 4.LaTeX 公式[^LaTeX]
 
@@ -352,7 +352,7 @@ cond(no)->sub1(right)->op
 ​```
 ```
 
-![image-20200516210940069](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516210940069.png)
+![image-20200516210940069](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516210940069.png)
 
 ### 5.2 sequence时序图[^js-sequence]
 
@@ -371,7 +371,7 @@ participant 对象D
 Note right of 对象D: 没人陪我玩
 ​```
 ```
-![image-20200516211054089](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516211054089.png)
+![image-20200516211054089](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516211054089.png)
 
 ### 5.2mermaid 流程图[^mermaid]
 
@@ -385,7 +385,7 @@ A[方形] --> B(圆角)
 ​```
 ```
 
-![image-20200516211114754](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516211114754.png)
+![image-20200516211114754](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516211114754.png)
 
 ### 5.4mermaid 时序图
 
@@ -405,7 +405,7 @@ A[方形] --> B(圆角)
 ​```
 ```
 
-![image-20200516211140609](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516211140609.png)
+![image-20200516211140609](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516211140609.png)
 
 ### 5.6mermaid类图
 
@@ -435,7 +435,7 @@ classDiagram
 ​```
 ```
 
-![image-20200516211421185](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516211421185.png)
+![image-20200516211421185](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516211421185.png)
 
 ### 5.7mermaid状态图
 
@@ -451,7 +451,7 @@ stateDiagram
 ​```
 ```
 
-![image-20200516211255022](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516211255022.png)
+![image-20200516211255022](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516211255022.png)
 
 ### 5.8mermaid饼图
 
@@ -464,7 +464,7 @@ pie title Pets adopted by volunteers
 ​```
 ```
 
-![image-20200516211514437](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516211514437.png)
+![image-20200516211514437](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516211514437.png)
 
 ### 5.9mermaid甘特图
 
@@ -491,7 +491,7 @@ pie title Pets adopted by volunteers
 ​```
 ```
 
-![image-20200516211603718](https://cdn.jsdelivr.net/gh/wangrusheng/k/img/202005/image-20200516211603718.png)
+![image-20200516211603718](https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/image-20200516211603718.png)
 
 
 
