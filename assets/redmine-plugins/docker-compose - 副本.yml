@@ -1,0 +1,33 @@
+version: '2'
+services:
+  mariadb:
+    image: 'bitnami/mariadb:10.3'
+    container_name: redmine_mariadb
+    environment:
+      - MARIADB_ROOT_PASSWORD=redmine@2019
+      - MARIADB_USER=bn_redmine
+      - MARIADB_DATABASE=bitnami_redmine
+      - MARIADB_PASSWORD=redmine@2019
+    ports:
+      - '3307:3306'
+    volumes:
+      - 'mariadb_data:/bitnami'
+  redmine:
+    image: 'bitnami/redmine:4'
+    container_name: redmine
+    environment:
+      - REDMINE_DB_PORT=3307
+      - REDMINE_DB_USERNAME=bn_redmine
+      - REDMINE_DB_NAME=bitnami_redmine
+      - REDMINE_DB_PASSWORD=redmine@2019
+    ports:
+      - '3000:3000'
+    volumes:
+      - 'redmine_data:/bitnami'
+    depends_on:
+      - mariadb
+volumes:
+  mariadb_data:
+    driver: local
+  redmine_data:
+    driver: local
