@@ -31,7 +31,7 @@ Markdown 能被使用来：
 支持 MacOS 、Windows、Linux 平台，`Simple, yet Powerful`。  
 官网:https://typora.io/
 
-<video autoplay="" muted="muted" preload="preload" loop="loop" style="border-radius: 8px;box-shadow: 0px 0px 8px 3px #ccc;"  src="https://cdn.jsdelivr.net/gh/wangrusheng/images/img/beta.mp4" width="400" height="300"></video>
+<video autoplay="" muted="muted" preload="preload" loop="loop" style="border-radius: 8px;box-shadow: 0px 0px 8px 3px #ccc;"  src="https://cdn.jsdelivr.net/gh/wangrusheng/k/markdown/markdown-guide.assets/beta.mp4" width="400" height="300"></video>
 
 ### Cmd Markdown
 
