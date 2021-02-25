@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T06:19:56.223Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="wD4nqnZeOJcFOcCe-wOX" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T06:20:53.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="lU4CMdFr13SphXS8Mbj5" version="14.4.3" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2272" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -29,7 +29,7 @@
           <mxGeometry x="-360" y="436" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-11" value="校验子服务" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=19;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-750" y="181" width="200" height="220" as="geometry" />
+          <mxGeometry x="-750" y="181" width="200" height="209" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-12" value="结算子服务" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=19;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-520" y="180" width="280" height="211" as="geometry" />
@@ -38,10 +38,10 @@
           <mxGeometry x="-735" y="210" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-14" value="资源合法性校验" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-735" y="275.5" width="165" height="50" as="geometry" />
+          <mxGeometry x="-735" y="271" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-15" value="安全校验" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-735" y="341" width="165" height="50" as="geometry" />
+          <mxGeometry x="-735" y="331" width="165" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-16" value="分配算法" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-500" y="211" width="247.5" height="50" as="geometry" />
