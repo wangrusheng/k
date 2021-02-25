@@ -1,71 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T06:09:54.504Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="VLlZ0tmE77wG-mW8BbKx" version="14.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T06:10:35.650Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="uk-sO1KvyIP9JP3IGa-H" version="14.4.2" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="2272" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dKdSaXE48SgPbhcamS2K-63" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="70" width="1590" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-3" value="结算业务-计费服务架构图" style="shape=umlFrame;whiteSpace=wrap;html=1;width=150;height=31;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-570" y="409" width="670" height="461" as="geometry" />
+          <mxGeometry x="-770" y="50" width="670" height="461" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-4" value="接口层" style="html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="450" width="580" height="50" as="geometry" />
+          <mxGeometry x="-760" y="91" width="580" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-5" value="公共设施层(日志、性能分析)" style="html=1;direction=south;horizontal=0;verticalAlign=middle;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="40" y="451" width="50" height="409" as="geometry" />
+          <mxGeometry x="-160" y="92" width="50" height="409" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-6" value="服务层" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="510" width="580" height="250" as="geometry" />
+          <mxGeometry x="-760" y="151" width="580" height="250" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-7" value="服务层" style="shape=umlFrame;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-560" y="780" width="580" height="80" as="geometry" />
+          <mxGeometry x="-760" y="421" width="580" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-8" value="天网追踪API" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="795" width="120" height="50" as="geometry" />
+          <mxGeometry x="-660" y="436" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-9" value="资源API" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="795" width="120" height="50" as="geometry" />
+          <mxGeometry x="-510" y="436" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-10" value="用户体系API" style="html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="-160" y="795" width="120" height="50" as="geometry" />
+          <mxGeometry x="-360" y="436" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-11" value="校验子服务" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="530" width="150" height="220" as="geometry" />
+          <mxGeometry x="-680" y="171" width="150" height="220" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-12" value="结算子服务" style="shape=umlFrame;whiteSpace=wrap;html=1;width=70;height=30;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="530" width="250" height="220" as="geometry" />
+          <mxGeometry x="-490" y="171" width="250" height="220" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-13" value="用户身份校验" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-465" y="570" width="120" height="50" as="geometry" />
+          <mxGeometry x="-665" y="211" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-14" value="资源合法性校验" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-465" y="630" width="120" height="50" as="geometry" />
+          <mxGeometry x="-665" y="271" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-15" value="安全校验" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-465" y="690" width="120" height="50" as="geometry" />
+          <mxGeometry x="-665" y="331" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-16" value="分配算法" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="570" width="227.5" height="50" as="geometry" />
+          <mxGeometry x="-480" y="211" width="227.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-17" value="网校通" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="630" width="60" height="50" as="geometry" />
+          <mxGeometry x="-480" y="271" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-19" value="视频通" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-195" y="630" width="60" height="50" as="geometry" />
+          <mxGeometry x="-395" y="271" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-20" value="视频包月" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="630" width="57.5" height="50" as="geometry" />
+          <mxGeometry x="-310" y="271" width="57.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-21" value="高级会员" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-195" y="690" width="60" height="50" as="geometry" />
+          <mxGeometry x="-395" y="331" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-23" value="普通会员" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="690" width="57.5" height="50" as="geometry" />
+          <mxGeometry x="-310" y="331" width="57.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="I675UHcyZapkbZYY3n_P-24" value="包月" style="html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="690" width="60" height="50" as="geometry" />
+          <mxGeometry x="-480" y="331" width="60" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
